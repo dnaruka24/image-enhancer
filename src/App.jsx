@@ -2,7 +2,7 @@ import Home from './components/Home'
 
 const App = () => {
   return (
-    <div className='flex flex-col items-center justify-center min-h-screen bg-gray-200 py-8 px-5'>
+    <div className='flex flex-col items-center justify-center min-h-screen bg-gray-100 py-8 px-5'>
       
       <div className='text-center mb-5'>
         <h1 className='text-5xl font-bold text-gray-800 mb-2'>AI Image Enhancer</h1>
