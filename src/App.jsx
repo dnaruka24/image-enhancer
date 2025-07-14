@@ -14,7 +14,7 @@ const App = () => {
       <Home />
 
       <div className='mt-10 text-sm text-center text-gray-400'>
-        <p>Powered by @EnhanceAI</p>
+        <p>Powered by @PicWish API</p>
       </div>
     </div>
   )
