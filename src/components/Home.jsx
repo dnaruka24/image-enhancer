@@ -26,7 +26,7 @@ const Home = () => {
       <ImagePreview
         loading={loading}
         upload={uploadImage}
-        enhance={enhanceImage}
+        enhance={enhanceImage?.image}
       />
     </>
   );
