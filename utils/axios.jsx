@@ -1,6 +1,6 @@
 import axios from "axios";
 
-let API_KEY = "wxyqfhdlnhjgfmzol";
+let API_KEY = "wx6zy2jd05t9io18i";
 let BASE_URL = "https://techhk.aoscdn.com/";
 
 export let enhancedImageAPI = async (file) => {
