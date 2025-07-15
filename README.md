@@ -6,7 +6,7 @@ A React-based web application to upload and enhance images using the **PicWish A
 
 ## 🔗 Live Demo
 
-👉 [pixel-enhancer.netlify.app]
+👉 [[pixel-enhancer.netlify.app](https://pixel-enhancer.netlify.app/)]
 
 ---
 
